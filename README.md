@@ -31,7 +31,11 @@ Los archivos estáticos están en `dist/`. TypeScript compila `src/*.mts` a mód
 
 ## Publicación
 
-Servir `dist/` como sitio estático. Subir el repositorio no activa automáticamente GitHub Pages. Antes de desplegar en otro dominio, ajustar canonical y metadatos sociales en `dist/index.html`. Esta copia excluye la configuración de Sites y su historial.
+URL prevista: https://marcosadelacruz.github.io/marcos-project-controls/
+
+El workflow `.github/workflows/pages.yml` comprueba, compila y publica únicamente `dist/` al actualizar `main`. En Settings → Pages → Build and deployment, seleccionar **GitHub Actions** como Source. Después ejecutar **Publicar web en GitHub Pages** desde Actions, o repetir la ejecución si empezó antes de activar Pages.
+
+Los metadatos canonical, Open Graph y datos estructurados apuntan a esta URL. Esta copia excluye la configuración de Sites y su historial.
 
 ## Límites
 
