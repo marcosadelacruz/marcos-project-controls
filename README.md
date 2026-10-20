@@ -42,3 +42,9 @@ Compilación, tipos, recursos, cálculo CPM y controles 3D comprobados por códi
 ## Recursos
 
 Three.js incluye su licencia MIT en `dist/vendor/three/`. Las fuentes locales incluyen sus licencias en `dist/assets/`. Logos de empresas y emisores pertenecen a sus titulares. CV y certificados son documentos del titular del portafolio.
+
+## Licencia
+
+**Licencia propietaria — todos los derechos reservados.** Los materiales originales no se ofrecen bajo una licencia de código abierto. Su reutilización requiere autorización previa por escrito de Marcos Alejandro De La Cruz: marcosadelacruz@gmail.com. Consulta [LICENSE](LICENSE).
+
+Las licencias de Three.js, fuentes y otros materiales de terceros se conservan. La licencia propietaria no cambia la visibilidad del repositorio ni los derechos derivados de las condiciones de GitHub.

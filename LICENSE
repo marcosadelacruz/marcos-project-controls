@@ -1,0 +1,27 @@
+LICENCIA PROPIETARIA — TODOS LOS DERECHOS RESERVADOS
+
+Copyright (c) 2026 Marcos Alejandro De La Cruz.
+
+El código, diseño y demás materiales originales de este proyecto pertenecen a
+Marcos Alejandro De La Cruz, en la medida en que sea titular de sus derechos.
+Todos los derechos no concedidos expresamente quedan reservados.
+
+No se concede una licencia general para reutilizar, reproducir, modificar,
+distribuir, sublicenciar, comercializar o desplegar los materiales originales
+del proyecto. Cualquier autorización para esos usos deberá obtenerse por
+escrito del titular: marcosadelacruz@gmail.com.
+
+La disponibilidad del repositorio o la navegación del sitio web no supone una
+autorización adicional de reutilización. Lo anterior se entiende sin perjuicio
+de los usos permitidos por la legislación aplicable y de los derechos de
+visualización y bifurcación que resulten de las condiciones de GitHub mientras
+el repositorio sea público.
+
+COMPONENTES Y MATERIALES DE TERCEROS
+
+Esta licencia no modifica ni restringe las licencias o derechos de componentes
+y materiales de terceros. Three.js conserva su licencia MIT en
+dist/vendor/three/LICENSE; las fuentes conservan sus licencias SIL Open Font
+License en dist/assets/. Los logos, marcas y certificados de sus respectivos
+emisores siguen sujetos a los derechos de sus titulares. Se mantienen sus
+avisos y archivos de licencia.
